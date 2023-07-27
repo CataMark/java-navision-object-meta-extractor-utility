@@ -1,0 +1,1 @@
+# Console utility for extracting and decompressing meta info (source code) for each Microsoft Navision Object, from database dictionary table, saving it to files of specific types (3 types per object)
